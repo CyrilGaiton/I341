@@ -1,0 +1,33 @@
+Problématique :
+
+Idées : Est-il pertinent d'utiliser d'autres types d'images (H alpha) ?
+		Tracking de foule ou dans d'autres domaines
+		Medical
+		methode/aglo du traitement des images
+		
+
+1ere question vague : en quoi la méthode [préciser] issue du domaine du deep-leaning permet-elle d'améliorer les résultats de suivis de filaments solaires selon les [critères à préciser] avec des images Ha MLSO ?
+
+Question finale : En quoi la méthode deep-learning (issue du machine learning) permet-elle d'améliorer les suivis de filaments solaires selon les fusions et séparations de ceux-ci avec des images H alpha. 
+
+
+Quelles données : images H alpha
+base de donnée obspm.com qui donne des infos sur les filaments, leur durée de vie etc ...
+
+
+Quelles analyses : suivi de filament
+fusion/séparation de filaments
+trajectoire des filaments
+disparition
+apparition
+tout est lié !
+
+Quelles techniques : algorithme
+machine learning : deep learning
+analyse des données
+apprentissage
+interpolation
+sunpy
+keras
+
+Quelles évaluations : 
